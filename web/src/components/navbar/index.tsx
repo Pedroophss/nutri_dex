@@ -1,6 +1,6 @@
 import { NavBar, NavItem } from "./styles";
 
-export default function Root() {
+export default function() {
   return (
     <>
       <NavBar>
